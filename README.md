@@ -13,6 +13,14 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+<div>
+    <a href="https://www.loom.com/share/07f94f8b35984f7b85c7715cb5f2fdca">
+    </a>
+    <a href="https://www.loom.com/share/07f94f8b35984f7b85c7715cb5f2fdca">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/07f94f8b35984f7b85c7715cb5f2fdca-cd698be9f7fec110-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 1.Instagram(Photo sharing, direct messaging),2.Snapchat(Phto sharing, video features),2.Shazam(music finding,music library),4.Apple music(quaility music,personalized radio station)
 ## Notes
